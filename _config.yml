@@ -1,3 +1,5 @@
 name: OSM per la PA
 markdown: kramdown
 encoding: UTF-8
+permalink: pretty
+baseurl: "/OSMPA/"
